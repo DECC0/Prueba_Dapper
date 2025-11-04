@@ -42,7 +42,6 @@ Tablas Postgres (regulations / regulations_component)
 - Acceso a Internet (el contenedor debe llegar a `www.ani.gov.co`).
 - Puerto `8080` disponible en el host.
 
-> **Nota**: El proyecto incluye un `.env` vacío. Puedes declarar ahí variables opcionales como `PYTHONPATH` o sobrescribir credenciales si lo deseas.
 
 ## 4. Puesta en Marcha
 
