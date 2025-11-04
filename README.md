@@ -175,13 +175,3 @@ Para detener los contenedores y borrar volúmenes:
 ```bash
 sudo docker compose down --volumes
 ```
-
-## 12. Pendientes y Mejores Prácticas Futuras
-
-- Crear tests unitarios para reglas de validación y funciones de scraping.
-- Añadir alertas (por ejemplo, vía Slack) cuando la validación descarte filas obligatorias.
-- Migrar las credenciales a un backend seguro (Secret Manager / Vault) en producción.
-
----
-
-Este repositorio queda listo para entregarse: módulos separados, validación configurable, DAG funcional, documentación operativa y scripts para reproducir el entorno en Docker. Solo resta ejecutar `git add .`, `git commit -m "Entrega prueba técnica"` y subir a GitHub.
