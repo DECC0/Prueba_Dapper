@@ -1,0 +1,593 @@
+[2025-11-04T01:58:51.347+0000] {processor.py:157} INFO - Started process (PID=175) to work on /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T01:58:51.348+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/ani_regulations_dag.py for tasks to queue
+[2025-11-04T01:58:51.348+0000] {logging_mixin.py:151} INFO - [2025-11-04T01:58:51.348+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T01:58:52.358+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ani_regulations_pipeline']) retrieved from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T01:58:52.523+0000] {logging_mixin.py:151} INFO - [2025-11-04T01:58:52.523+0000] {manager.py:499} INFO - Created Permission View: %s
+[2025-11-04T01:58:52.529+0000] {logging_mixin.py:151} INFO - [2025-11-04T01:58:52.528+0000] {manager.py:499} INFO - Created Permission View: %s
+[2025-11-04T01:58:52.532+0000] {logging_mixin.py:151} INFO - [2025-11-04T01:58:52.532+0000] {manager.py:499} INFO - Created Permission View: %s
+[2025-11-04T01:58:52.532+0000] {logging_mixin.py:151} INFO - [2025-11-04T01:58:52.532+0000] {security.py:708} INFO - Not syncing DAG-level permissions for DAG 'DAG:ani_regulations_pipeline' as access control is unset.
+[2025-11-04T01:58:52.533+0000] {logging_mixin.py:151} INFO - [2025-11-04T01:58:52.532+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-11-04T01:58:52.540+0000] {logging_mixin.py:151} INFO - [2025-11-04T01:58:52.540+0000] {dag.py:2937} INFO - Creating ORM DAG for ani_regulations_pipeline
+[2025-11-04T01:58:52.540+0000] {logging_mixin.py:151} INFO - [2025-11-04T01:58:52.540+0000] {dag.py:3696} INFO - Setting next_dagrun for ani_regulations_pipeline to None, run_after=None
+[2025-11-04T01:58:52.550+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/ani_regulations_dag.py took 1.204 seconds
+[2025-11-04T01:59:22.658+0000] {processor.py:157} INFO - Started process (PID=181) to work on /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T01:59:22.659+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/ani_regulations_dag.py for tasks to queue
+[2025-11-04T01:59:22.659+0000] {logging_mixin.py:151} INFO - [2025-11-04T01:59:22.659+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T01:59:23.012+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ani_regulations_pipeline']) retrieved from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T01:59:23.028+0000] {logging_mixin.py:151} INFO - [2025-11-04T01:59:23.027+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-11-04T01:59:23.036+0000] {logging_mixin.py:151} INFO - [2025-11-04T01:59:23.036+0000] {dag.py:3696} INFO - Setting next_dagrun for ani_regulations_pipeline to None, run_after=None
+[2025-11-04T01:59:23.049+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/ani_regulations_dag.py took 0.393 seconds
+[2025-11-04T01:59:53.166+0000] {processor.py:157} INFO - Started process (PID=187) to work on /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T01:59:53.167+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/ani_regulations_dag.py for tasks to queue
+[2025-11-04T01:59:53.167+0000] {logging_mixin.py:151} INFO - [2025-11-04T01:59:53.167+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T01:59:53.534+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ani_regulations_pipeline']) retrieved from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T01:59:53.552+0000] {logging_mixin.py:151} INFO - [2025-11-04T01:59:53.552+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-11-04T01:59:53.559+0000] {logging_mixin.py:151} INFO - [2025-11-04T01:59:53.559+0000] {dag.py:3696} INFO - Setting next_dagrun for ani_regulations_pipeline to None, run_after=None
+[2025-11-04T01:59:53.577+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/ani_regulations_dag.py took 0.413 seconds
+[2025-11-04T02:00:23.693+0000] {processor.py:157} INFO - Started process (PID=193) to work on /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:00:23.702+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/ani_regulations_dag.py for tasks to queue
+[2025-11-04T02:00:23.702+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:00:23.702+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:00:24.064+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ani_regulations_pipeline']) retrieved from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:00:24.081+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:00:24.080+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-11-04T02:00:24.088+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:00:24.088+0000] {dag.py:3696} INFO - Setting next_dagrun for ani_regulations_pipeline to None, run_after=None
+[2025-11-04T02:00:24.098+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/ani_regulations_dag.py took 0.406 seconds
+[2025-11-04T02:00:54.213+0000] {processor.py:157} INFO - Started process (PID=202) to work on /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:00:54.214+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/ani_regulations_dag.py for tasks to queue
+[2025-11-04T02:00:54.214+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:00:54.214+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:00:54.578+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ani_regulations_pipeline']) retrieved from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:00:54.594+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:00:54.594+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-11-04T02:00:54.601+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:00:54.601+0000] {dag.py:3696} INFO - Setting next_dagrun for ani_regulations_pipeline to None, run_after=None
+[2025-11-04T02:00:54.611+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/ani_regulations_dag.py took 0.400 seconds
+[2025-11-04T02:01:24.727+0000] {processor.py:157} INFO - Started process (PID=214) to work on /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:01:24.736+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/ani_regulations_dag.py for tasks to queue
+[2025-11-04T02:01:24.736+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:01:24.736+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:01:25.141+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ani_regulations_pipeline']) retrieved from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:01:25.160+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:01:25.160+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-11-04T02:01:25.168+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:01:25.168+0000] {dag.py:3696} INFO - Setting next_dagrun for ani_regulations_pipeline to None, run_after=None
+[2025-11-04T02:01:25.188+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/ani_regulations_dag.py took 0.463 seconds
+[2025-11-04T02:01:55.404+0000] {processor.py:157} INFO - Started process (PID=229) to work on /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:01:55.412+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/ani_regulations_dag.py for tasks to queue
+[2025-11-04T02:01:55.413+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:01:55.413+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:01:55.685+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ani_regulations_pipeline']) retrieved from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:01:55.704+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:01:55.704+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-11-04T02:01:55.712+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:01:55.712+0000] {dag.py:3696} INFO - Setting next_dagrun for ani_regulations_pipeline to None, run_after=None
+[2025-11-04T02:01:55.723+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/ani_regulations_dag.py took 0.322 seconds
+[2025-11-04T02:02:25.838+0000] {processor.py:157} INFO - Started process (PID=235) to work on /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:02:25.846+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/ani_regulations_dag.py for tasks to queue
+[2025-11-04T02:02:25.847+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:02:25.847+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:02:26.110+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ani_regulations_pipeline']) retrieved from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:02:26.129+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:02:26.128+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-11-04T02:02:26.137+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:02:26.137+0000] {dag.py:3696} INFO - Setting next_dagrun for ani_regulations_pipeline to None, run_after=None
+[2025-11-04T02:02:26.155+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/ani_regulations_dag.py took 0.320 seconds
+[2025-11-04T02:02:56.264+0000] {processor.py:157} INFO - Started process (PID=241) to work on /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:02:56.272+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/ani_regulations_dag.py for tasks to queue
+[2025-11-04T02:02:56.273+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:02:56.273+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:02:56.546+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ani_regulations_pipeline']) retrieved from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:02:56.565+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:02:56.564+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-11-04T02:02:56.573+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:02:56.573+0000] {dag.py:3696} INFO - Setting next_dagrun for ani_regulations_pipeline to None, run_after=None
+[2025-11-04T02:02:56.600+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/ani_regulations_dag.py took 0.338 seconds
+[2025-11-04T02:03:26.723+0000] {processor.py:157} INFO - Started process (PID=247) to work on /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:03:26.731+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/ani_regulations_dag.py for tasks to queue
+[2025-11-04T02:03:26.732+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:03:26.732+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:03:27.024+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ani_regulations_pipeline']) retrieved from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:03:27.044+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:03:27.043+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-11-04T02:03:27.053+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:03:27.053+0000] {dag.py:3696} INFO - Setting next_dagrun for ani_regulations_pipeline to None, run_after=None
+[2025-11-04T02:03:27.073+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/ani_regulations_dag.py took 0.352 seconds
+[2025-11-04T02:03:57.185+0000] {processor.py:157} INFO - Started process (PID=253) to work on /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:03:57.193+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/ani_regulations_dag.py for tasks to queue
+[2025-11-04T02:03:57.194+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:03:57.194+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:03:57.464+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ani_regulations_pipeline']) retrieved from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:03:57.484+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:03:57.484+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-11-04T02:03:57.492+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:03:57.492+0000] {dag.py:3696} INFO - Setting next_dagrun for ani_regulations_pipeline to None, run_after=None
+[2025-11-04T02:03:57.512+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/ani_regulations_dag.py took 0.330 seconds
+[2025-11-04T02:04:27.621+0000] {processor.py:157} INFO - Started process (PID=259) to work on /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:04:27.629+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/ani_regulations_dag.py for tasks to queue
+[2025-11-04T02:04:27.631+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:04:27.630+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:04:27.898+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ani_regulations_pipeline']) retrieved from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:04:27.918+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:04:27.917+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-11-04T02:04:27.926+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:04:27.926+0000] {dag.py:3696} INFO - Setting next_dagrun for ani_regulations_pipeline to None, run_after=None
+[2025-11-04T02:04:27.945+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/ani_regulations_dag.py took 0.327 seconds
+[2025-11-04T02:04:58.066+0000] {processor.py:157} INFO - Started process (PID=265) to work on /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:04:58.075+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/ani_regulations_dag.py for tasks to queue
+[2025-11-04T02:04:58.076+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:04:58.075+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:04:58.363+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ani_regulations_pipeline']) retrieved from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:04:58.383+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:04:58.382+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-11-04T02:04:58.391+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:04:58.391+0000] {dag.py:3696} INFO - Setting next_dagrun for ani_regulations_pipeline to None, run_after=None
+[2025-11-04T02:04:58.402+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/ani_regulations_dag.py took 0.339 seconds
+[2025-11-04T02:05:28.517+0000] {processor.py:157} INFO - Started process (PID=271) to work on /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:05:28.526+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/ani_regulations_dag.py for tasks to queue
+[2025-11-04T02:05:28.527+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:05:28.527+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:05:28.818+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ani_regulations_pipeline']) retrieved from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:05:28.838+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:05:28.838+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-11-04T02:05:28.847+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:05:28.847+0000] {dag.py:3696} INFO - Setting next_dagrun for ani_regulations_pipeline to None, run_after=None
+[2025-11-04T02:05:28.873+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/ani_regulations_dag.py took 0.358 seconds
+[2025-11-04T02:05:58.992+0000] {processor.py:157} INFO - Started process (PID=277) to work on /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:05:59.000+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/ani_regulations_dag.py for tasks to queue
+[2025-11-04T02:05:59.001+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:05:59.001+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:05:59.296+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ani_regulations_pipeline']) retrieved from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:05:59.315+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:05:59.315+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-11-04T02:05:59.324+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:05:59.324+0000] {dag.py:3696} INFO - Setting next_dagrun for ani_regulations_pipeline to None, run_after=None
+[2025-11-04T02:05:59.336+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/ani_regulations_dag.py took 0.347 seconds
+[2025-11-04T02:06:29.452+0000] {processor.py:157} INFO - Started process (PID=283) to work on /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:06:29.460+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/ani_regulations_dag.py for tasks to queue
+[2025-11-04T02:06:29.461+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:06:29.461+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:06:29.730+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ani_regulations_pipeline']) retrieved from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:06:29.749+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:06:29.748+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-11-04T02:06:29.757+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:06:29.757+0000] {dag.py:3696} INFO - Setting next_dagrun for ani_regulations_pipeline to None, run_after=None
+[2025-11-04T02:06:29.775+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/ani_regulations_dag.py took 0.326 seconds
+[2025-11-04T02:06:59.893+0000] {processor.py:157} INFO - Started process (PID=289) to work on /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:06:59.902+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/ani_regulations_dag.py for tasks to queue
+[2025-11-04T02:06:59.903+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:06:59.902+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:07:00.168+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ani_regulations_pipeline']) retrieved from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:07:00.187+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:07:00.186+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-11-04T02:07:00.195+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:07:00.194+0000] {dag.py:3696} INFO - Setting next_dagrun for ani_regulations_pipeline to None, run_after=None
+[2025-11-04T02:07:00.213+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/ani_regulations_dag.py took 0.322 seconds
+[2025-11-04T02:07:30.328+0000] {processor.py:157} INFO - Started process (PID=295) to work on /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:07:30.337+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/ani_regulations_dag.py for tasks to queue
+[2025-11-04T02:07:30.337+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:07:30.337+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:07:30.610+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ani_regulations_pipeline']) retrieved from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:07:30.629+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:07:30.629+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-11-04T02:07:30.637+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:07:30.637+0000] {dag.py:3696} INFO - Setting next_dagrun for ani_regulations_pipeline to None, run_after=None
+[2025-11-04T02:07:30.656+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/ani_regulations_dag.py took 0.330 seconds
+[2025-11-04T02:08:00.774+0000] {processor.py:157} INFO - Started process (PID=301) to work on /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:08:00.783+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/ani_regulations_dag.py for tasks to queue
+[2025-11-04T02:08:00.784+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:08:00.783+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:08:01.074+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ani_regulations_pipeline']) retrieved from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:08:01.097+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:08:01.097+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-11-04T02:08:01.107+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:08:01.107+0000] {dag.py:3696} INFO - Setting next_dagrun for ani_regulations_pipeline to None, run_after=None
+[2025-11-04T02:08:01.128+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/ani_regulations_dag.py took 0.356 seconds
+[2025-11-04T02:08:31.245+0000] {processor.py:157} INFO - Started process (PID=307) to work on /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:08:31.249+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/ani_regulations_dag.py for tasks to queue
+[2025-11-04T02:08:31.250+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:08:31.250+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:08:31.514+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ani_regulations_pipeline']) retrieved from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:08:31.533+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:08:31.532+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-11-04T02:08:31.541+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:08:31.541+0000] {dag.py:3696} INFO - Setting next_dagrun for ani_regulations_pipeline to None, run_after=None
+[2025-11-04T02:08:31.559+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/ani_regulations_dag.py took 0.316 seconds
+[2025-11-04T02:09:01.682+0000] {processor.py:157} INFO - Started process (PID=313) to work on /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:09:01.691+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/ani_regulations_dag.py for tasks to queue
+[2025-11-04T02:09:01.691+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:09:01.691+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:09:01.959+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ani_regulations_pipeline']) retrieved from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:09:01.978+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:09:01.978+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-11-04T02:09:01.986+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:09:01.986+0000] {dag.py:3696} INFO - Setting next_dagrun for ani_regulations_pipeline to None, run_after=None
+[2025-11-04T02:09:02.004+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/ani_regulations_dag.py took 0.324 seconds
+[2025-11-04T02:09:32.119+0000] {processor.py:157} INFO - Started process (PID=319) to work on /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:09:32.128+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/ani_regulations_dag.py for tasks to queue
+[2025-11-04T02:09:32.128+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:09:32.128+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:09:32.394+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ani_regulations_pipeline']) retrieved from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:09:32.413+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:09:32.413+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-11-04T02:09:32.420+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:09:32.420+0000] {dag.py:3696} INFO - Setting next_dagrun for ani_regulations_pipeline to None, run_after=None
+[2025-11-04T02:09:32.439+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/ani_regulations_dag.py took 0.322 seconds
+[2025-11-04T02:10:02.558+0000] {processor.py:157} INFO - Started process (PID=325) to work on /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:10:02.567+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/ani_regulations_dag.py for tasks to queue
+[2025-11-04T02:10:02.568+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:10:02.567+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:10:02.828+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ani_regulations_pipeline']) retrieved from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:10:02.847+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:10:02.846+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-11-04T02:10:02.854+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:10:02.854+0000] {dag.py:3696} INFO - Setting next_dagrun for ani_regulations_pipeline to None, run_after=None
+[2025-11-04T02:10:02.880+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/ani_regulations_dag.py took 0.324 seconds
+[2025-11-04T02:10:32.997+0000] {processor.py:157} INFO - Started process (PID=331) to work on /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:10:33.006+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/ani_regulations_dag.py for tasks to queue
+[2025-11-04T02:10:33.007+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:10:33.007+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:10:33.271+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ani_regulations_pipeline']) retrieved from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:10:33.289+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:10:33.289+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-11-04T02:10:33.299+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:10:33.298+0000] {dag.py:3696} INFO - Setting next_dagrun for ani_regulations_pipeline to None, run_after=None
+[2025-11-04T02:10:33.318+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/ani_regulations_dag.py took 0.322 seconds
+[2025-11-04T02:11:03.442+0000] {processor.py:157} INFO - Started process (PID=337) to work on /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:11:03.443+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/ani_regulations_dag.py for tasks to queue
+[2025-11-04T02:11:03.443+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:11:03.443+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:11:03.734+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ani_regulations_pipeline']) retrieved from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:11:03.762+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:11:03.761+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-11-04T02:11:03.770+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:11:03.770+0000] {dag.py:3696} INFO - Setting next_dagrun for ani_regulations_pipeline to None, run_after=None
+[2025-11-04T02:11:03.790+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/ani_regulations_dag.py took 0.351 seconds
+[2025-11-04T02:11:33.907+0000] {processor.py:157} INFO - Started process (PID=343) to work on /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:11:33.916+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/ani_regulations_dag.py for tasks to queue
+[2025-11-04T02:11:33.916+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:11:33.916+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:11:34.174+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ani_regulations_pipeline']) retrieved from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:11:34.192+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:11:34.192+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-11-04T02:11:34.200+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:11:34.200+0000] {dag.py:3696} INFO - Setting next_dagrun for ani_regulations_pipeline to None, run_after=None
+[2025-11-04T02:11:34.218+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/ani_regulations_dag.py took 0.313 seconds
+[2025-11-04T02:12:04.334+0000] {processor.py:157} INFO - Started process (PID=349) to work on /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:12:04.342+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/ani_regulations_dag.py for tasks to queue
+[2025-11-04T02:12:04.343+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:12:04.342+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:12:04.601+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ani_regulations_pipeline']) retrieved from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:12:04.620+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:12:04.620+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-11-04T02:12:04.628+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:12:04.627+0000] {dag.py:3696} INFO - Setting next_dagrun for ani_regulations_pipeline to None, run_after=None
+[2025-11-04T02:12:04.647+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/ani_regulations_dag.py took 0.315 seconds
+[2025-11-04T02:12:34.763+0000] {processor.py:157} INFO - Started process (PID=355) to work on /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:12:34.772+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/ani_regulations_dag.py for tasks to queue
+[2025-11-04T02:12:34.773+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:12:34.773+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:12:35.036+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ani_regulations_pipeline']) retrieved from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:12:35.055+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:12:35.054+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-11-04T02:12:35.063+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:12:35.063+0000] {dag.py:3696} INFO - Setting next_dagrun for ani_regulations_pipeline to None, run_after=None
+[2025-11-04T02:12:35.073+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/ani_regulations_dag.py took 0.312 seconds
+[2025-11-04T02:13:05.187+0000] {processor.py:157} INFO - Started process (PID=361) to work on /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:13:05.196+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/ani_regulations_dag.py for tasks to queue
+[2025-11-04T02:13:05.197+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:13:05.196+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:13:05.458+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ani_regulations_pipeline']) retrieved from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:13:05.477+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:13:05.477+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-11-04T02:13:05.485+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:13:05.485+0000] {dag.py:3696} INFO - Setting next_dagrun for ani_regulations_pipeline to None, run_after=None
+[2025-11-04T02:13:05.504+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/ani_regulations_dag.py took 0.319 seconds
+[2025-11-04T02:13:35.624+0000] {processor.py:157} INFO - Started process (PID=367) to work on /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:13:35.627+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/ani_regulations_dag.py for tasks to queue
+[2025-11-04T02:13:35.628+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:13:35.628+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:13:35.916+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ani_regulations_pipeline']) retrieved from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:13:35.934+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:13:35.933+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-11-04T02:13:35.942+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:13:35.942+0000] {dag.py:3696} INFO - Setting next_dagrun for ani_regulations_pipeline to None, run_after=None
+[2025-11-04T02:13:35.962+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/ani_regulations_dag.py took 0.340 seconds
+[2025-11-04T02:14:06.077+0000] {processor.py:157} INFO - Started process (PID=373) to work on /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:14:06.085+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/ani_regulations_dag.py for tasks to queue
+[2025-11-04T02:14:06.086+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:14:06.086+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:14:06.372+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ani_regulations_pipeline']) retrieved from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:14:06.390+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:14:06.390+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-11-04T02:14:06.398+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:14:06.398+0000] {dag.py:3696} INFO - Setting next_dagrun for ani_regulations_pipeline to None, run_after=None
+[2025-11-04T02:14:06.411+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/ani_regulations_dag.py took 0.336 seconds
+[2025-11-04T02:14:36.534+0000] {processor.py:157} INFO - Started process (PID=379) to work on /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:14:36.542+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/ani_regulations_dag.py for tasks to queue
+[2025-11-04T02:14:36.543+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:14:36.543+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:14:36.805+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ani_regulations_pipeline']) retrieved from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:14:36.824+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:14:36.823+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-11-04T02:14:36.832+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:14:36.832+0000] {dag.py:3696} INFO - Setting next_dagrun for ani_regulations_pipeline to None, run_after=None
+[2025-11-04T02:14:36.851+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/ani_regulations_dag.py took 0.319 seconds
+[2025-11-04T02:15:06.962+0000] {processor.py:157} INFO - Started process (PID=385) to work on /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:15:06.971+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/ani_regulations_dag.py for tasks to queue
+[2025-11-04T02:15:06.971+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:15:06.971+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:15:07.241+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ani_regulations_pipeline']) retrieved from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:15:07.260+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:15:07.260+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-11-04T02:15:07.268+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:15:07.268+0000] {dag.py:3696} INFO - Setting next_dagrun for ani_regulations_pipeline to None, run_after=None
+[2025-11-04T02:15:07.278+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/ani_regulations_dag.py took 0.319 seconds
+[2025-11-04T02:15:37.392+0000] {processor.py:157} INFO - Started process (PID=391) to work on /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:15:37.401+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/ani_regulations_dag.py for tasks to queue
+[2025-11-04T02:15:37.402+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:15:37.401+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:15:37.664+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ani_regulations_pipeline']) retrieved from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:15:37.683+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:15:37.683+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-11-04T02:15:37.691+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:15:37.691+0000] {dag.py:3696} INFO - Setting next_dagrun for ani_regulations_pipeline to None, run_after=None
+[2025-11-04T02:15:37.701+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/ani_regulations_dag.py took 0.310 seconds
+[2025-11-04T02:16:07.811+0000] {processor.py:157} INFO - Started process (PID=397) to work on /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:16:07.812+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/ani_regulations_dag.py for tasks to queue
+[2025-11-04T02:16:07.812+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:16:07.812+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:16:08.073+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ani_regulations_pipeline']) retrieved from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:16:08.091+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:16:08.091+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-11-04T02:16:08.099+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:16:08.099+0000] {dag.py:3696} INFO - Setting next_dagrun for ani_regulations_pipeline to None, run_after=None
+[2025-11-04T02:16:08.118+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/ani_regulations_dag.py took 0.310 seconds
+[2025-11-04T02:16:38.235+0000] {processor.py:157} INFO - Started process (PID=403) to work on /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:16:38.244+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/ani_regulations_dag.py for tasks to queue
+[2025-11-04T02:16:38.244+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:16:38.244+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:16:38.514+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ani_regulations_pipeline']) retrieved from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:16:38.532+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:16:38.532+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-11-04T02:16:38.541+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:16:38.541+0000] {dag.py:3696} INFO - Setting next_dagrun for ani_regulations_pipeline to None, run_after=None
+[2025-11-04T02:16:38.551+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/ani_regulations_dag.py took 0.318 seconds
+[2025-11-04T02:17:08.666+0000] {processor.py:157} INFO - Started process (PID=409) to work on /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:17:08.667+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/ani_regulations_dag.py for tasks to queue
+[2025-11-04T02:17:08.667+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:17:08.667+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:17:08.928+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ani_regulations_pipeline']) retrieved from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:17:08.947+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:17:08.946+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-11-04T02:17:08.954+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:17:08.954+0000] {dag.py:3696} INFO - Setting next_dagrun for ani_regulations_pipeline to None, run_after=None
+[2025-11-04T02:17:08.972+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/ani_regulations_dag.py took 0.309 seconds
+[2025-11-04T02:17:39.083+0000] {processor.py:157} INFO - Started process (PID=415) to work on /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:17:39.084+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/ani_regulations_dag.py for tasks to queue
+[2025-11-04T02:17:39.085+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:17:39.084+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:17:39.358+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ani_regulations_pipeline']) retrieved from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:17:39.377+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:17:39.377+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-11-04T02:17:39.385+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:17:39.385+0000] {dag.py:3696} INFO - Setting next_dagrun for ani_regulations_pipeline to None, run_after=None
+[2025-11-04T02:17:39.403+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/ani_regulations_dag.py took 0.322 seconds
+[2025-11-04T02:18:09.520+0000] {processor.py:157} INFO - Started process (PID=421) to work on /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:18:09.528+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/ani_regulations_dag.py for tasks to queue
+[2025-11-04T02:18:09.529+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:18:09.529+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:18:09.810+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ani_regulations_pipeline']) retrieved from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:18:09.831+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:18:09.831+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-11-04T02:18:09.841+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:18:09.840+0000] {dag.py:3696} INFO - Setting next_dagrun for ani_regulations_pipeline to None, run_after=None
+[2025-11-04T02:18:09.862+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/ani_regulations_dag.py took 0.345 seconds
+[2025-11-04T02:18:39.973+0000] {processor.py:157} INFO - Started process (PID=427) to work on /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:18:39.981+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/ani_regulations_dag.py for tasks to queue
+[2025-11-04T02:18:39.982+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:18:39.982+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:18:40.245+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ani_regulations_pipeline']) retrieved from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:18:40.264+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:18:40.263+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-11-04T02:18:40.272+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:18:40.272+0000] {dag.py:3696} INFO - Setting next_dagrun for ani_regulations_pipeline to None, run_after=None
+[2025-11-04T02:18:40.291+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/ani_regulations_dag.py took 0.321 seconds
+[2025-11-04T02:19:10.406+0000] {processor.py:157} INFO - Started process (PID=433) to work on /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:19:10.415+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/ani_regulations_dag.py for tasks to queue
+[2025-11-04T02:19:10.416+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:19:10.415+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:19:10.683+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ani_regulations_pipeline']) retrieved from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:19:10.702+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:19:10.702+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-11-04T02:19:10.710+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:19:10.710+0000] {dag.py:3696} INFO - Setting next_dagrun for ani_regulations_pipeline to None, run_after=None
+[2025-11-04T02:19:10.729+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/ani_regulations_dag.py took 0.325 seconds
+[2025-11-04T02:19:40.845+0000] {processor.py:157} INFO - Started process (PID=439) to work on /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:19:40.845+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/ani_regulations_dag.py for tasks to queue
+[2025-11-04T02:19:40.846+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:19:40.846+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:19:41.155+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ani_regulations_pipeline']) retrieved from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:19:41.175+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:19:41.175+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-11-04T02:19:41.185+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:19:41.185+0000] {dag.py:3696} INFO - Setting next_dagrun for ani_regulations_pipeline to None, run_after=None
+[2025-11-04T02:19:41.208+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/ani_regulations_dag.py took 0.366 seconds
+[2025-11-04T02:20:11.326+0000] {processor.py:157} INFO - Started process (PID=445) to work on /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:20:11.334+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/ani_regulations_dag.py for tasks to queue
+[2025-11-04T02:20:11.335+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:20:11.335+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:20:11.637+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ani_regulations_pipeline']) retrieved from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:20:11.657+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:20:11.656+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-11-04T02:20:11.665+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:20:11.665+0000] {dag.py:3696} INFO - Setting next_dagrun for ani_regulations_pipeline to None, run_after=None
+[2025-11-04T02:20:11.686+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/ani_regulations_dag.py took 0.362 seconds
+[2025-11-04T02:20:41.801+0000] {processor.py:157} INFO - Started process (PID=451) to work on /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:20:41.809+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/ani_regulations_dag.py for tasks to queue
+[2025-11-04T02:20:41.810+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:20:41.809+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:20:42.082+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ani_regulations_pipeline']) retrieved from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:20:42.100+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:20:42.100+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-11-04T02:20:42.109+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:20:42.109+0000] {dag.py:3696} INFO - Setting next_dagrun for ani_regulations_pipeline to None, run_after=None
+[2025-11-04T02:20:42.129+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/ani_regulations_dag.py took 0.330 seconds
+[2025-11-04T02:21:12.244+0000] {processor.py:157} INFO - Started process (PID=457) to work on /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:21:12.252+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/ani_regulations_dag.py for tasks to queue
+[2025-11-04T02:21:12.253+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:21:12.252+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:21:12.523+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ani_regulations_pipeline']) retrieved from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:21:12.544+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:21:12.544+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-11-04T02:21:12.553+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:21:12.552+0000] {dag.py:3696} INFO - Setting next_dagrun for ani_regulations_pipeline to None, run_after=None
+[2025-11-04T02:21:12.563+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/ani_regulations_dag.py took 0.321 seconds
+[2025-11-04T02:21:42.672+0000] {processor.py:157} INFO - Started process (PID=463) to work on /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:21:42.681+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/ani_regulations_dag.py for tasks to queue
+[2025-11-04T02:21:42.682+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:21:42.682+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:21:42.953+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ani_regulations_pipeline']) retrieved from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:21:42.971+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:21:42.970+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-11-04T02:21:42.979+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:21:42.979+0000] {dag.py:3696} INFO - Setting next_dagrun for ani_regulations_pipeline to None, run_after=None
+[2025-11-04T02:21:42.998+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/ani_regulations_dag.py took 0.327 seconds
+[2025-11-04T02:22:13.119+0000] {processor.py:157} INFO - Started process (PID=469) to work on /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:22:13.120+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/ani_regulations_dag.py for tasks to queue
+[2025-11-04T02:22:13.120+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:22:13.120+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:22:13.432+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ani_regulations_pipeline']) retrieved from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:22:13.453+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:22:13.452+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-11-04T02:22:13.461+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:22:13.461+0000] {dag.py:3696} INFO - Setting next_dagrun for ani_regulations_pipeline to None, run_after=None
+[2025-11-04T02:22:13.480+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/ani_regulations_dag.py took 0.364 seconds
+[2025-11-04T02:22:43.597+0000] {processor.py:157} INFO - Started process (PID=475) to work on /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:22:43.606+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/ani_regulations_dag.py for tasks to queue
+[2025-11-04T02:22:43.607+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:22:43.606+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:22:43.894+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ani_regulations_pipeline']) retrieved from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:22:43.914+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:22:43.913+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-11-04T02:22:43.923+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:22:43.923+0000] {dag.py:3696} INFO - Setting next_dagrun for ani_regulations_pipeline to None, run_after=None
+[2025-11-04T02:22:43.942+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/ani_regulations_dag.py took 0.347 seconds
+[2025-11-04T02:23:14.058+0000] {processor.py:157} INFO - Started process (PID=481) to work on /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:23:14.067+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/ani_regulations_dag.py for tasks to queue
+[2025-11-04T02:23:14.067+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:23:14.067+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:23:14.361+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ani_regulations_pipeline']) retrieved from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:23:14.383+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:23:14.382+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-11-04T02:23:14.391+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:23:14.391+0000] {dag.py:3696} INFO - Setting next_dagrun for ani_regulations_pipeline to None, run_after=None
+[2025-11-04T02:23:14.402+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/ani_regulations_dag.py took 0.346 seconds
+[2025-11-04T02:23:44.521+0000] {processor.py:157} INFO - Started process (PID=487) to work on /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:23:44.530+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/ani_regulations_dag.py for tasks to queue
+[2025-11-04T02:23:44.530+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:23:44.530+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:23:44.791+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ani_regulations_pipeline']) retrieved from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:23:44.809+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:23:44.809+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-11-04T02:23:44.817+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:23:44.817+0000] {dag.py:3696} INFO - Setting next_dagrun for ani_regulations_pipeline to None, run_after=None
+[2025-11-04T02:23:44.835+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/ani_regulations_dag.py took 0.316 seconds
+[2025-11-04T02:24:14.947+0000] {processor.py:157} INFO - Started process (PID=493) to work on /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:24:14.955+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/ani_regulations_dag.py for tasks to queue
+[2025-11-04T02:24:14.956+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:24:14.956+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:24:15.217+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ani_regulations_pipeline']) retrieved from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:24:15.235+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:24:15.235+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-11-04T02:24:15.244+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:24:15.243+0000] {dag.py:3696} INFO - Setting next_dagrun for ani_regulations_pipeline to None, run_after=None
+[2025-11-04T02:24:15.262+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/ani_regulations_dag.py took 0.317 seconds
+[2025-11-04T02:24:45.382+0000] {processor.py:157} INFO - Started process (PID=499) to work on /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:24:45.391+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/ani_regulations_dag.py for tasks to queue
+[2025-11-04T02:24:45.392+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:24:45.391+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:24:45.653+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ani_regulations_pipeline']) retrieved from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:24:45.672+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:24:45.672+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-11-04T02:24:45.681+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:24:45.681+0000] {dag.py:3696} INFO - Setting next_dagrun for ani_regulations_pipeline to None, run_after=None
+[2025-11-04T02:24:45.705+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/ani_regulations_dag.py took 0.326 seconds
+[2025-11-04T02:25:15.821+0000] {processor.py:157} INFO - Started process (PID=505) to work on /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:25:15.830+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/ani_regulations_dag.py for tasks to queue
+[2025-11-04T02:25:15.831+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:25:15.830+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:25:16.091+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ani_regulations_pipeline']) retrieved from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:25:16.110+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:25:16.109+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-11-04T02:25:16.118+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:25:16.118+0000] {dag.py:3696} INFO - Setting next_dagrun for ani_regulations_pipeline to None, run_after=None
+[2025-11-04T02:25:16.136+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/ani_regulations_dag.py took 0.317 seconds
+[2025-11-04T02:25:46.252+0000] {processor.py:157} INFO - Started process (PID=511) to work on /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:25:46.260+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/ani_regulations_dag.py for tasks to queue
+[2025-11-04T02:25:46.261+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:25:46.261+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:25:46.526+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ani_regulations_pipeline']) retrieved from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:25:46.544+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:25:46.544+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-11-04T02:25:46.552+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:25:46.552+0000] {dag.py:3696} INFO - Setting next_dagrun for ani_regulations_pipeline to None, run_after=None
+[2025-11-04T02:25:46.562+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/ani_regulations_dag.py took 0.312 seconds
+[2025-11-04T02:26:16.677+0000] {processor.py:157} INFO - Started process (PID=517) to work on /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:26:16.685+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/ani_regulations_dag.py for tasks to queue
+[2025-11-04T02:26:16.686+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:26:16.686+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:26:16.947+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ani_regulations_pipeline']) retrieved from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:26:16.965+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:26:16.965+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-11-04T02:26:16.972+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:26:16.972+0000] {dag.py:3696} INFO - Setting next_dagrun for ani_regulations_pipeline to None, run_after=None
+[2025-11-04T02:26:16.991+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/ani_regulations_dag.py took 0.316 seconds
+[2025-11-04T02:26:47.112+0000] {processor.py:157} INFO - Started process (PID=523) to work on /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:26:47.120+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/ani_regulations_dag.py for tasks to queue
+[2025-11-04T02:26:47.121+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:26:47.121+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:26:47.383+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ani_regulations_pipeline']) retrieved from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:26:47.401+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:26:47.401+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-11-04T02:26:47.410+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:26:47.410+0000] {dag.py:3696} INFO - Setting next_dagrun for ani_regulations_pipeline to None, run_after=None
+[2025-11-04T02:26:47.428+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/ani_regulations_dag.py took 0.319 seconds
+[2025-11-04T02:27:17.547+0000] {processor.py:157} INFO - Started process (PID=529) to work on /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:27:17.556+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/ani_regulations_dag.py for tasks to queue
+[2025-11-04T02:27:17.557+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:27:17.556+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:27:17.816+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ani_regulations_pipeline']) retrieved from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:27:17.834+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:27:17.834+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-11-04T02:27:17.842+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:27:17.842+0000] {dag.py:3696} INFO - Setting next_dagrun for ani_regulations_pipeline to None, run_after=None
+[2025-11-04T02:27:17.851+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/ani_regulations_dag.py took 0.307 seconds
+[2025-11-04T02:27:47.971+0000] {processor.py:157} INFO - Started process (PID=535) to work on /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:27:47.971+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/ani_regulations_dag.py for tasks to queue
+[2025-11-04T02:27:47.972+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:27:47.972+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:27:48.233+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ani_regulations_pipeline']) retrieved from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:27:48.251+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:27:48.251+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-11-04T02:27:48.259+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:27:48.259+0000] {dag.py:3696} INFO - Setting next_dagrun for ani_regulations_pipeline to None, run_after=None
+[2025-11-04T02:27:48.277+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/ani_regulations_dag.py took 0.308 seconds
+[2025-11-04T02:28:18.400+0000] {processor.py:157} INFO - Started process (PID=541) to work on /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:28:18.400+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/ani_regulations_dag.py for tasks to queue
+[2025-11-04T02:28:18.401+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:28:18.401+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:28:18.659+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ani_regulations_pipeline']) retrieved from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:28:18.676+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:28:18.676+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-11-04T02:28:18.684+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:28:18.684+0000] {dag.py:3696} INFO - Setting next_dagrun for ani_regulations_pipeline to None, run_after=None
+[2025-11-04T02:28:18.693+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/ani_regulations_dag.py took 0.296 seconds
+[2025-11-04T02:28:48.810+0000] {processor.py:157} INFO - Started process (PID=547) to work on /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:28:48.818+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/ani_regulations_dag.py for tasks to queue
+[2025-11-04T02:28:48.819+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:28:48.819+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:28:49.127+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ani_regulations_pipeline']) retrieved from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:28:49.147+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:28:49.146+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-11-04T02:28:49.156+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:28:49.156+0000] {dag.py:3696} INFO - Setting next_dagrun for ani_regulations_pipeline to None, run_after=None
+[2025-11-04T02:28:49.176+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/ani_regulations_dag.py took 0.368 seconds
+[2025-11-04T02:29:19.289+0000] {processor.py:157} INFO - Started process (PID=553) to work on /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:29:19.297+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/ani_regulations_dag.py for tasks to queue
+[2025-11-04T02:29:19.298+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:29:19.298+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:29:19.582+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ani_regulations_pipeline']) retrieved from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:29:19.602+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:29:19.601+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-11-04T02:29:19.610+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:29:19.610+0000] {dag.py:3696} INFO - Setting next_dagrun for ani_regulations_pipeline to None, run_after=None
+[2025-11-04T02:29:19.620+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/ani_regulations_dag.py took 0.334 seconds
+[2025-11-04T02:29:49.737+0000] {processor.py:157} INFO - Started process (PID=559) to work on /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:29:49.745+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/ani_regulations_dag.py for tasks to queue
+[2025-11-04T02:29:49.746+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:29:49.746+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:29:50.036+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ani_regulations_pipeline']) retrieved from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:29:50.057+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:29:50.056+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-11-04T02:29:50.065+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:29:50.065+0000] {dag.py:3696} INFO - Setting next_dagrun for ani_regulations_pipeline to None, run_after=None
+[2025-11-04T02:29:50.084+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/ani_regulations_dag.py took 0.350 seconds
+[2025-11-04T02:30:20.203+0000] {processor.py:157} INFO - Started process (PID=565) to work on /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:30:20.203+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/ani_regulations_dag.py for tasks to queue
+[2025-11-04T02:30:20.204+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:30:20.204+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:30:20.465+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ani_regulations_pipeline']) retrieved from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:30:20.483+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:30:20.483+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-11-04T02:30:20.491+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:30:20.491+0000] {dag.py:3696} INFO - Setting next_dagrun for ani_regulations_pipeline to None, run_after=None
+[2025-11-04T02:30:20.509+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/ani_regulations_dag.py took 0.308 seconds
+[2025-11-04T02:30:50.623+0000] {processor.py:157} INFO - Started process (PID=571) to work on /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:30:50.631+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/ani_regulations_dag.py for tasks to queue
+[2025-11-04T02:30:50.632+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:30:50.632+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:30:50.899+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ani_regulations_pipeline']) retrieved from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:30:50.917+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:30:50.917+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-11-04T02:30:50.926+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:30:50.926+0000] {dag.py:3696} INFO - Setting next_dagrun for ani_regulations_pipeline to None, run_after=None
+[2025-11-04T02:30:50.950+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/ani_regulations_dag.py took 0.329 seconds
+[2025-11-04T02:31:21.061+0000] {processor.py:157} INFO - Started process (PID=577) to work on /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:31:21.070+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/ani_regulations_dag.py for tasks to queue
+[2025-11-04T02:31:21.071+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:31:21.071+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:31:21.349+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ani_regulations_pipeline']) retrieved from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:31:21.368+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:31:21.368+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-11-04T02:31:21.376+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:31:21.376+0000] {dag.py:3696} INFO - Setting next_dagrun for ani_regulations_pipeline to None, run_after=None
+[2025-11-04T02:31:21.395+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/ani_regulations_dag.py took 0.336 seconds
+[2025-11-04T02:31:51.508+0000] {processor.py:157} INFO - Started process (PID=583) to work on /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:31:51.517+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/ani_regulations_dag.py for tasks to queue
+[2025-11-04T02:31:51.517+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:31:51.517+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:31:51.784+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ani_regulations_pipeline']) retrieved from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:31:51.803+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:31:51.802+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-11-04T02:31:51.812+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:31:51.812+0000] {dag.py:3696} INFO - Setting next_dagrun for ani_regulations_pipeline to None, run_after=None
+[2025-11-04T02:31:51.822+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/ani_regulations_dag.py took 0.316 seconds
+[2025-11-04T02:32:21.934+0000] {processor.py:157} INFO - Started process (PID=589) to work on /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:32:21.942+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/ani_regulations_dag.py for tasks to queue
+[2025-11-04T02:32:21.943+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:32:21.943+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:32:22.215+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ani_regulations_pipeline']) retrieved from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:32:22.233+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:32:22.233+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-11-04T02:32:22.241+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:32:22.241+0000] {dag.py:3696} INFO - Setting next_dagrun for ani_regulations_pipeline to None, run_after=None
+[2025-11-04T02:32:22.261+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/ani_regulations_dag.py took 0.329 seconds
+[2025-11-04T02:32:52.373+0000] {processor.py:157} INFO - Started process (PID=595) to work on /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:32:52.374+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/ani_regulations_dag.py for tasks to queue
+[2025-11-04T02:32:52.374+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:32:52.374+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:32:52.635+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ani_regulations_pipeline']) retrieved from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T02:32:52.653+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:32:52.652+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-11-04T02:32:52.661+0000] {logging_mixin.py:151} INFO - [2025-11-04T02:32:52.661+0000] {dag.py:3696} INFO - Setting next_dagrun for ani_regulations_pipeline to None, run_after=None
+[2025-11-04T02:32:52.670+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/ani_regulations_dag.py took 0.299 seconds
+[2025-11-04T14:21:51.651+0000] {processor.py:157} INFO - Started process (PID=174) to work on /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T14:21:51.652+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/ani_regulations_dag.py for tasks to queue
+[2025-11-04T14:21:51.652+0000] {logging_mixin.py:151} INFO - [2025-11-04T14:21:51.652+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T14:21:52.171+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ani_regulations_pipeline']) retrieved from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T14:21:52.197+0000] {logging_mixin.py:151} INFO - [2025-11-04T14:21:52.197+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-11-04T14:21:52.205+0000] {logging_mixin.py:151} INFO - [2025-11-04T14:21:52.205+0000] {dag.py:3696} INFO - Setting next_dagrun for ani_regulations_pipeline to None, run_after=None
+[2025-11-04T14:21:52.215+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/ani_regulations_dag.py took 0.565 seconds
+[2025-11-04T14:22:22.347+0000] {processor.py:157} INFO - Started process (PID=181) to work on /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T14:22:22.356+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/ani_regulations_dag.py for tasks to queue
+[2025-11-04T14:22:22.356+0000] {logging_mixin.py:151} INFO - [2025-11-04T14:22:22.356+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T14:22:22.706+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ani_regulations_pipeline']) retrieved from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T14:22:22.722+0000] {logging_mixin.py:151} INFO - [2025-11-04T14:22:22.721+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-11-04T14:22:22.729+0000] {logging_mixin.py:151} INFO - [2025-11-04T14:22:22.729+0000] {dag.py:3696} INFO - Setting next_dagrun for ani_regulations_pipeline to None, run_after=None
+[2025-11-04T14:22:22.742+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/ani_regulations_dag.py took 0.397 seconds
+[2025-11-04T14:22:52.868+0000] {processor.py:157} INFO - Started process (PID=187) to work on /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T14:22:52.877+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/ani_regulations_dag.py for tasks to queue
+[2025-11-04T14:22:52.878+0000] {logging_mixin.py:151} INFO - [2025-11-04T14:22:52.878+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T14:22:53.224+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ani_regulations_pipeline']) retrieved from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T14:22:53.240+0000] {logging_mixin.py:151} INFO - [2025-11-04T14:22:53.240+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-11-04T14:22:53.247+0000] {logging_mixin.py:151} INFO - [2025-11-04T14:22:53.247+0000] {dag.py:3696} INFO - Setting next_dagrun for ani_regulations_pipeline to None, run_after=None
+[2025-11-04T14:22:53.267+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/ani_regulations_dag.py took 0.400 seconds
+[2025-11-04T14:23:23.382+0000] {processor.py:157} INFO - Started process (PID=193) to work on /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T14:23:23.382+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/ani_regulations_dag.py for tasks to queue
+[2025-11-04T14:23:23.383+0000] {logging_mixin.py:151} INFO - [2025-11-04T14:23:23.383+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T14:23:23.774+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ani_regulations_pipeline']) retrieved from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T14:23:23.792+0000] {logging_mixin.py:151} INFO - [2025-11-04T14:23:23.792+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-11-04T14:23:23.801+0000] {logging_mixin.py:151} INFO - [2025-11-04T14:23:23.801+0000] {dag.py:3696} INFO - Setting next_dagrun for ani_regulations_pipeline to None, run_after=None
+[2025-11-04T14:23:23.821+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/ani_regulations_dag.py took 0.442 seconds
+[2025-11-04T14:23:53.947+0000] {processor.py:157} INFO - Started process (PID=199) to work on /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T14:23:53.956+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/ani_regulations_dag.py for tasks to queue
+[2025-11-04T14:23:53.957+0000] {logging_mixin.py:151} INFO - [2025-11-04T14:23:53.956+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T14:23:54.299+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ani_regulations_pipeline']) retrieved from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T14:23:54.315+0000] {logging_mixin.py:151} INFO - [2025-11-04T14:23:54.315+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-11-04T14:23:54.322+0000] {logging_mixin.py:151} INFO - [2025-11-04T14:23:54.322+0000] {dag.py:3696} INFO - Setting next_dagrun for ani_regulations_pipeline to None, run_after=None
+[2025-11-04T14:23:54.341+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/ani_regulations_dag.py took 0.396 seconds
+[2025-11-04T14:25:19.585+0000] {processor.py:157} INFO - Started process (PID=174) to work on /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T14:25:19.586+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/ani_regulations_dag.py for tasks to queue
+[2025-11-04T14:25:19.587+0000] {logging_mixin.py:151} INFO - [2025-11-04T14:25:19.587+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T14:25:20.159+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ani_regulations_pipeline']) retrieved from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T14:25:20.187+0000] {logging_mixin.py:151} INFO - [2025-11-04T14:25:20.186+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-11-04T14:25:20.194+0000] {logging_mixin.py:151} INFO - [2025-11-04T14:25:20.194+0000] {dag.py:3696} INFO - Setting next_dagrun for ani_regulations_pipeline to None, run_after=None
+[2025-11-04T14:25:20.204+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/ani_regulations_dag.py took 0.622 seconds
+[2025-11-04T14:25:50.326+0000] {processor.py:157} INFO - Started process (PID=181) to work on /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T14:25:50.334+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/ani_regulations_dag.py for tasks to queue
+[2025-11-04T14:25:50.335+0000] {logging_mixin.py:151} INFO - [2025-11-04T14:25:50.335+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T14:25:50.787+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ani_regulations_pipeline']) retrieved from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T14:25:50.812+0000] {logging_mixin.py:151} INFO - [2025-11-04T14:25:50.811+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-11-04T14:25:50.822+0000] {logging_mixin.py:151} INFO - [2025-11-04T14:25:50.821+0000] {dag.py:3696} INFO - Setting next_dagrun for ani_regulations_pipeline to None, run_after=None
+[2025-11-04T14:25:50.847+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/ani_regulations_dag.py took 0.524 seconds
+[2025-11-04T14:26:20.965+0000] {processor.py:157} INFO - Started process (PID=187) to work on /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T14:26:20.974+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/ani_regulations_dag.py for tasks to queue
+[2025-11-04T14:26:20.974+0000] {logging_mixin.py:151} INFO - [2025-11-04T14:26:20.974+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T14:26:21.326+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ani_regulations_pipeline']) retrieved from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T14:26:21.346+0000] {logging_mixin.py:151} INFO - [2025-11-04T14:26:21.345+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-11-04T14:26:21.355+0000] {logging_mixin.py:151} INFO - [2025-11-04T14:26:21.355+0000] {dag.py:3696} INFO - Setting next_dagrun for ani_regulations_pipeline to None, run_after=None
+[2025-11-04T14:26:21.369+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/ani_regulations_dag.py took 0.407 seconds
+[2025-11-04T14:26:51.476+0000] {processor.py:157} INFO - Started process (PID=193) to work on /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T14:26:51.476+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/ani_regulations_dag.py for tasks to queue
+[2025-11-04T14:26:51.477+0000] {logging_mixin.py:151} INFO - [2025-11-04T14:26:51.477+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T14:26:51.885+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ani_regulations_pipeline']) retrieved from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T14:26:51.907+0000] {logging_mixin.py:151} INFO - [2025-11-04T14:26:51.906+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-11-04T14:26:51.915+0000] {logging_mixin.py:151} INFO - [2025-11-04T14:26:51.915+0000] {dag.py:3696} INFO - Setting next_dagrun for ani_regulations_pipeline to None, run_after=None
+[2025-11-04T14:26:51.927+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/ani_regulations_dag.py took 0.454 seconds
+[2025-11-04T14:27:22.051+0000] {processor.py:157} INFO - Started process (PID=199) to work on /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T14:27:22.059+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/ani_regulations_dag.py for tasks to queue
+[2025-11-04T14:27:22.061+0000] {logging_mixin.py:151} INFO - [2025-11-04T14:27:22.060+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T14:27:22.599+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ani_regulations_pipeline']) retrieved from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T14:27:22.623+0000] {logging_mixin.py:151} INFO - [2025-11-04T14:27:22.623+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-11-04T14:27:22.634+0000] {logging_mixin.py:151} INFO - [2025-11-04T14:27:22.634+0000] {dag.py:3696} INFO - Setting next_dagrun for ani_regulations_pipeline to None, run_after=None
+[2025-11-04T14:27:22.660+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/ani_regulations_dag.py took 0.613 seconds
+[2025-11-04T14:27:52.773+0000] {processor.py:157} INFO - Started process (PID=205) to work on /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T14:27:52.774+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/ani_regulations_dag.py for tasks to queue
+[2025-11-04T14:27:52.774+0000] {logging_mixin.py:151} INFO - [2025-11-04T14:27:52.774+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T14:27:53.171+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ani_regulations_pipeline']) retrieved from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T14:27:53.189+0000] {logging_mixin.py:151} INFO - [2025-11-04T14:27:53.189+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-11-04T14:27:53.197+0000] {logging_mixin.py:151} INFO - [2025-11-04T14:27:53.197+0000] {dag.py:3696} INFO - Setting next_dagrun for ani_regulations_pipeline to None, run_after=None
+[2025-11-04T14:27:53.217+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/ani_regulations_dag.py took 0.446 seconds
+[2025-11-04T14:28:23.437+0000] {processor.py:157} INFO - Started process (PID=211) to work on /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T14:28:23.445+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/ani_regulations_dag.py for tasks to queue
+[2025-11-04T14:28:23.446+0000] {logging_mixin.py:151} INFO - [2025-11-04T14:28:23.446+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T14:28:23.763+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ani_regulations_pipeline']) retrieved from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T14:28:23.783+0000] {logging_mixin.py:151} INFO - [2025-11-04T14:28:23.782+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-11-04T14:28:23.791+0000] {logging_mixin.py:151} INFO - [2025-11-04T14:28:23.791+0000] {dag.py:3696} INFO - Setting next_dagrun for ani_regulations_pipeline to None, run_after=None
+[2025-11-04T14:28:23.814+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/ani_regulations_dag.py took 0.380 seconds
+[2025-11-04T14:28:53.924+0000] {processor.py:157} INFO - Started process (PID=217) to work on /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T14:28:53.932+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/ani_regulations_dag.py for tasks to queue
+[2025-11-04T14:28:53.933+0000] {logging_mixin.py:151} INFO - [2025-11-04T14:28:53.933+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T14:28:54.204+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ani_regulations_pipeline']) retrieved from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T14:28:54.222+0000] {logging_mixin.py:151} INFO - [2025-11-04T14:28:54.222+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-11-04T14:28:54.232+0000] {logging_mixin.py:151} INFO - [2025-11-04T14:28:54.232+0000] {dag.py:3696} INFO - Setting next_dagrun for ani_regulations_pipeline to None, run_after=None
+[2025-11-04T14:28:54.242+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/ani_regulations_dag.py took 0.321 seconds
+[2025-11-04T14:29:24.354+0000] {processor.py:157} INFO - Started process (PID=223) to work on /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T14:29:24.355+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/ani_regulations_dag.py for tasks to queue
+[2025-11-04T14:29:24.356+0000] {logging_mixin.py:151} INFO - [2025-11-04T14:29:24.355+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T14:29:24.703+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ani_regulations_pipeline']) retrieved from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T14:29:24.728+0000] {logging_mixin.py:151} INFO - [2025-11-04T14:29:24.727+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-11-04T14:29:24.739+0000] {logging_mixin.py:151} INFO - [2025-11-04T14:29:24.739+0000] {dag.py:3696} INFO - Setting next_dagrun for ani_regulations_pipeline to None, run_after=None
+[2025-11-04T14:29:24.760+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/ani_regulations_dag.py took 0.408 seconds
+[2025-11-04T14:29:54.879+0000] {processor.py:157} INFO - Started process (PID=229) to work on /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T14:29:54.888+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/ani_regulations_dag.py for tasks to queue
+[2025-11-04T14:29:54.889+0000] {logging_mixin.py:151} INFO - [2025-11-04T14:29:54.889+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T14:29:55.210+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ani_regulations_pipeline']) retrieved from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T14:29:55.232+0000] {logging_mixin.py:151} INFO - [2025-11-04T14:29:55.232+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-11-04T14:29:55.240+0000] {logging_mixin.py:151} INFO - [2025-11-04T14:29:55.240+0000] {dag.py:3696} INFO - Setting next_dagrun for ani_regulations_pipeline to None, run_after=None
+[2025-11-04T14:29:55.262+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/ani_regulations_dag.py took 0.385 seconds
+[2025-11-04T14:30:25.375+0000] {processor.py:157} INFO - Started process (PID=235) to work on /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T14:30:25.383+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/ani_regulations_dag.py for tasks to queue
+[2025-11-04T14:30:25.384+0000] {logging_mixin.py:151} INFO - [2025-11-04T14:30:25.384+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T14:30:25.682+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ani_regulations_pipeline']) retrieved from /opt/airflow/dags/ani_regulations_dag.py
+[2025-11-04T14:30:25.702+0000] {logging_mixin.py:151} INFO - [2025-11-04T14:30:25.702+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2025-11-04T14:30:25.711+0000] {logging_mixin.py:151} INFO - [2025-11-04T14:30:25.711+0000] {dag.py:3696} INFO - Setting next_dagrun for ani_regulations_pipeline to None, run_after=None
+[2025-11-04T14:30:25.732+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/ani_regulations_dag.py took 0.360 seconds
