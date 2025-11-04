@@ -1,0 +1,49 @@
+{
+  "fields": {
+    "title": {
+      "type": "string",
+      "regex": ".+",
+      "required": true,
+      "max_length": 65
+    },
+    "created_at": {
+      "type": "date",
+      "regex": "^\\d{4}-\\d{2}-\\d{2}$",
+      "required": true
+    },
+    "external_link": {
+      "type": "string",
+      "regex": "^https?://.+",
+      "required": true
+    },
+    "summary": {
+      "type": "string",
+      "required": false
+    },
+    "rtype_id": {
+      "type": "integer",
+      "required": true
+    },
+    "classification_id": {
+      "type": "integer",
+      "required": true
+    },
+    "is_active": {
+      "type": "boolean",
+      "required": true
+    },
+    "update_at": {
+      "type": "string",
+      "regex": "^\\d{4}-\\d{2}-\\d{2} \\d{2}:\\d{2}:\\d{2}$",
+      "required": true
+    },
+    "gtype": {
+      "type": "string",
+      "required": false
+    },
+    "entity": {
+      "type": "string",
+      "required": true
+    }
+  }
+}

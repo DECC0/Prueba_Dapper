@@ -5,8 +5,9 @@ down-airflow:
 
 reset-airflow: down-airflow
 	sudo chown -R $$(id -u):$$(id -g) logs dags plugins || true
-	rm -rf logs/* dags/* plugins/*
-	mkdir -p logs dags plugins
+	rm -rf logs/* plugins/*
+	find dags -mindepth 1 -type f -name '*.pyc' -delete
+	mkdir -p logs plugins
 	chmod 777 logs dags plugins
 
 init-airflow:
